@@ -4,4 +4,4 @@ Exercises with functions (calculator):
 · Return
 · Methods
 · Arrow functions
-· Event handlers
+· Event handlers...
